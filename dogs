@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/tjones218/-Memories.git
 git push -u origin main
+index.html
+about.html
+contact.html
